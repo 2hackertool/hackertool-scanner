@@ -1,0 +1,29 @@
+MIT License 
+
+Copyright © hackertool 2025 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, the Software to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions
+
+Additional Conditions for Use of hackertool-scanner
+
+1. Scanning Websites
+You may scan websites for security testing or learning purposes only.
+You are not permitted to scan legitimate websites, e.g., educational, e-commerce, or general-purpose sites like Amazon, without explicit permission.
+
+
+2. Scanning Harmful Websites
+You are permitted to use this tool against clearly illegal, malicious, or harmful websites,such as phishing pages, fake websites stealing data, or virus, or sell illegal things.
+
+
+3. Scanning for Fun
+Scanning websites "just for fun" is not allowed. Scanning should only be done for testing, or with permission.
+
+
+4. Bug Hunting
+You are permitted to scan websites to find bugs for responsible disclosure or ethical reporting.
+Exploiting found bugs without permission may have legal consequences.
