@@ -20,12 +20,6 @@ ruby hackertool-scanner.rb
 
 <h1>Screenshots 📷</h1>
 
-![Screenshot_2025-04-26_12-44-53](https://github.com/user-attachments/assets/b7297de3-7a90-4f47-9c74-c05218d37bb4)
+![Screenshot_2025-04-26_12-38-51](https://github.com/user-attachments/assets/82792418-6e65-426a-9a79-748d08029f10)
 
-![Screenshot_2025-04-26_12-48-02](https://github.com/user-attachments/assets/8b5b9939-5907-477b-bfd6-85c99fa1d2dd)
-
-![Screenshot_2025-04-26_12-38-51](https://github.com/user-attachments/assets/d1e2aae2-2f9d-45a6-ae8b-f68476b8711a)
-
-![Screenshot_2025-04-26_12-46-51](https://github.com/user-attachments/assets/c7a1cb2a-5e23-4b05-93eb-b705c769134f)
-
-![Screenshot_2025-04-26_12-50-32](https://github.com/user-attachments/assets/6a62085b-13e5-40c4-84de-7f3b0a3eb6c1)
+![Screenshot_2025-04-26_12-46-51](https://github.com/user-attachments/assets/9a5e0db6-6715-44a8-bd83-903593caf193)
